@@ -1,0 +1,19 @@
+
+.skin {
+    position: relative;
+}
+
+.san {
+    border: 10px solid red;
+    border-color: red transparent transparent transparent;
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    left: 50%;
+    top: 200px;
+    margin-left: -5px;
+
+    
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
